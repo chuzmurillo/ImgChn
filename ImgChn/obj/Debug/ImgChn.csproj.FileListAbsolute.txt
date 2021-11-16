@@ -1,0 +1,10 @@
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\bin\Debug\ImgChn.exe.config
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\bin\Debug\ImgChn.exe
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\bin\Debug\ImgChn.pdb
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.csprojAssemblyReference.cache
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.Link.resources
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.Properties.Resources.resources
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.csproj.GenerateResource.cache
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.csproj.CoreCompileInputs.cache
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.exe
+C:\Users\Yisus\source\repos\ImgChn\ImgChn\obj\Debug\ImgChn.pdb
